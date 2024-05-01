@@ -1,2 +1,4 @@
 # Calculater
-A Simple Calculator Using Javascript and Node.js
+
+🧮 A Simple Calculator 
+🧑‍💻 Made With Javascript and Node.js
